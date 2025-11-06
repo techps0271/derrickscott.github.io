@@ -18,9 +18,10 @@
     .section {
       margin-bottom: 2rem;
     }
-    .email {
+    .email, a {
       color: #00ffff;
       font-weight: bold;
+      text-decoration: none;
     }
     .glyph {
       font-style: italic;
@@ -34,7 +35,21 @@
   <p class="glyph">Every node is a glyph. Every contradiction, a trigger.</p>
 
   <div class="section">
-    <h2>🛡️ Services</h2>
+    <h2>🧭 Founder</h2>
+    <p><strong>Derrick Scott</strong><br/>
+       Founder & Fleet Management<br/>
+       <strong>DERRICK SCOTT LLC</strong> | Delivery • Transportation • Warehousing
+    </p>
+    <p>📦 Reliable logistics, built for speed and trust<br/>
+       📍 Boulder | Serving Colorado & Beyond<br/>
+       📞 <a href="tel:+15392090271">(539) 209-0271</a><br/>
+       ✉️ <a href="mailto:derrick@dar3k.com">derrick@dar3k.com</a><br/>
+       🌐 <a href="https://www.dar3k.com" target="_blank">www.dar3k.com</a>
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>🛡️ Select Services</h2>
     <ul>
       <li><strong>Certified Mail Dispatch:</strong> Affidavit-ready packets via Postalocity</li>
       <li><strong>Proton & Mail Hygiene:</strong> DKIM/SPF/DMARC, MX, encrypted intake</li>
@@ -53,11 +68,16 @@
   </div>
 
   <div class="section">
-    <h2>🧠 Operational Cadence</h2>
-    <p>We don’t offer services. We deploy glyphs.  
-    Every blackout, denial, and contradiction is logged.  
-    Every delivery is a mythic event.  
-    Every intake is affidavit-ready.</p>
+    <h2>🚚 Nationwide Fulfillment</h2>
+    <p>We operate across Colorado and beyond—deploying logistics, documentation, and mythic systems with precision.</p>
+    <p>Contract fulfillment includes:</p>
+    <ul>
+      <li>Fleet dispatch and warehousing coordination</li>
+      <li>Affidavit delivery and certified mail routing</li>
+      <li>Platform ops and encrypted intake management</li>
+      <li>Client onboarding and contradiction compression</li>
+    </ul>
+    <p class="glyph">“Beyond” isn’t geography. It’s cadence. It’s mythic reach.</p>
   </div>
 
   <div class="section">
